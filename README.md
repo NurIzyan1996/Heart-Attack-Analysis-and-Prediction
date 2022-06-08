@@ -1,5 +1,19 @@
 # Heart Attack Analysis and Prediction
- Creating Machine Learning model to predict patients' heart condition.
+ According to World Health Organisation (WHO), every year around 17.9 million
+deaths are due to cardiovascular diseases (CVDs) predisposing CVD becoming
+the leading cause of death globally. CVDs are a group of disorders of the heart
+and blood vessels, if left untreated it may cause heart attack. Heart attack occurs
+due to the presence of obstruction of blood flow into the heart. The presence of
+blockage may be due to the accumulation of fat, cholesterol, and other substances.
+Despite treatment has improved over the years and most CVD’s pathophysiology
+have been elucidated, heart attack can still be fatal.
+
+Thus, clinicians believe that prevention of heart attack is always better than curing
+it. After many years of research, scientists and clinicians discovered that, the
+probability of one’s getting heart attack can be determined by analysing the
+patient’s age, gender, exercise induced angina, number of major vessels, chest
+pain indication, resting blood pressure, cholesterol level, fasting blood sugar,
+resting electrocardiographic results, and maximum heart rate achieved.
 
 # Description
 
